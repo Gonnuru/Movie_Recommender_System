@@ -9,4 +9,4 @@
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Gonnuru/Movie_Recommender_System)
-![API](https://img.shields.io/badge/API-TMDB-fcba03
+![API](https://img.shields.io/badge/API-TMDB-fcba03)
