@@ -4,7 +4,7 @@
 
 > Additionally, shows movies reviews, similar movies and cast
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gonnuru/Movie_Recommender_System/ba6978b25f0c8b677f02597f432bed5140d2526a)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/Gonnuru/Movie_Recommender_System/185edd81fe82e1b5f0c5495bb4ace0f600619240)
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
