@@ -13,4 +13,4 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Gonnuru/Movie_Recommender_System)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-Further Updates coming Soon
+Further Updates coming soon.  
