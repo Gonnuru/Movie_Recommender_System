@@ -1,6 +1,7 @@
 # Movie Recommendation Engine
 
 > Content Based Recommender System recommends movies similar to the movie user likes 
+
 > Analyses the sentiments on the reviews given by the user for that movie.
 
 * Open it in [Binder](https://gesis.mybinder.org/binder/v2/gh/Gonnuru/Movie_Recommender_System/185edd81fe82e1b5f0c5495bb4ace0f600619240):
