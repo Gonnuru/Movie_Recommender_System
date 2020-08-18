@@ -1,8 +1,7 @@
 # Movie Recommendation Engine
 
-> Recommends movies based on the inputted movies
-
-> Additionally, shows movies reviews, similar movies and cast
+> Content Based Recommender System recommends movies similar to the movie user likes 
+> Analyses the sentiments on the reviews given by the user for that movie.
 
 * Open it in [Binder](https://gesis.mybinder.org/binder/v2/gh/Gonnuru/Movie_Recommender_System/185edd81fe82e1b5f0c5495bb4ace0f600619240):
 <a href="https://gesis.mybinder.org/binder/v2/gh/Gonnuru/Movie_Recommender_System/185edd81fe82e1b5f0c5495bb4ace0f600619240"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a>
